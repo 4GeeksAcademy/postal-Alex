@@ -1,0 +1,34 @@
+body{
+     justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+.post{
+    display: flex;
+    flex-direction: column;
+}
+.headder{
+    display: flex;
+    gap: 20px;
+}
+.logo2{
+  
+}
+.logo3{
+    margin-left: 1100px;
+}
+.cosas{
+    display: flex;
+    height: 50px;
+    width: 50px;
+}
+.globo{
+    margin-left: 1100px;
+}
+img{
+    justify-content: center;
+    align-items: center;
+}
